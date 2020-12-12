@@ -1,5 +1,5 @@
 # Dumbways Bootcamp DevOps
-## Week 2
+## Week 1
 ### VM-Install Application
 
 1. Lakukan update depedency.
