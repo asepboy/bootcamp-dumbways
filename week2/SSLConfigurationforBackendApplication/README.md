@@ -12,7 +12,8 @@
    
    ![3](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/blob/master/week2/SSLConfigurationforBackendApplication/img/3.png)
 
-3. Setelah itu, coba akses domain via browser. pastikan ada logo gembok.
+3. Setelah itu, coba akses domain via browser. Pastikan ada logo kunci yang artinya SSL sudah diterapkan atau secured.
+
    
    ![7](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/blob/master/week2/SSLConfigurationforBackendApplication/img/7.png)
    

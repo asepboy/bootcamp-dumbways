@@ -11,7 +11,7 @@
    
    ![2](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/blob/master/week2/CustomDomainforBackendApplication/img/2.png)
 
-3. Pada server frontend edit file /src/config/api.js dengan merubah baseURl dengan mengganti IP menjadi domain baru.
+3. Pada server frontend edit file /src/config/api.js dengan merubah baseURL dengan mengganti IP menjadi domain baru.
    
    ![3](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/blob/master/week2/CustomDomainforBackendApplication/img/3.png)
 
