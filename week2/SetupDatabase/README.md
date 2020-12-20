@@ -10,7 +10,7 @@
    
    ![3](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/blob/master/week2/SetupDatabase/img/3.png)
    
-   ![4](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/blob/master/week2/SetupDatabase/img/5.png)
+   ![4](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/blob/master/week2/SetupDatabase/img/4.png)
    
    ![5](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/blob/master/week2/SetupDatabase/img/5.png)
 
