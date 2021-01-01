@@ -92,6 +92,8 @@
       - Buat Database, dan isi database baru tersebut
             
             ![30](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/blob/master/week3/mongodbClusterReplicaSet/img/30.png)
+
+            ![30](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/blob/master/week3/mongodbClusterReplicaSet/img/30.png)
   
     - Secondary
       - cek isi database
