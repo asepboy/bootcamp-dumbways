@@ -96,6 +96,7 @@
     - Secondary
       - cek isi database
             
+            
             ![31](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/blob/master/week3/mongodbClusterReplicaSet/img/31.png)
 
             ![32](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/blob/master/week3/mongodbClusterReplicaSet/img/32.png)
