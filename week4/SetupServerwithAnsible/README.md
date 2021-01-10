@@ -8,7 +8,7 @@
     
 2. Yang pertama dilakukan melakukan update, lalu menginstall Ansible.
    
-   ![6]()
+   ![6](/week4/SetupServerwithAnsible/img/6.png)
 
    ![7]()
 
