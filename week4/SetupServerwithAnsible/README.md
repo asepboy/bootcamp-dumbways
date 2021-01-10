@@ -10,7 +10,7 @@
    
    ![6](/week4/SetupServerwithAnsible/img/6.png)
 
-   ![7]()
+   ![7](/img/6.png)
 
    ![8]()
 
