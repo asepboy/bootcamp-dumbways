@@ -5,7 +5,10 @@
 
 Schematic yang digunakan
 
-![schematic](/Final%20Task/img/schematic/FinalTask.png)
+![schematic](/FinalTask/img/schematic/FinalTask.png)
 
 ### Server
     Siapkan server sesuai kebutuhan.
+    Buat NAT, agar semua dapat terkoneksi ke internet.
+    
+    
