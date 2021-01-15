@@ -4,3 +4,4 @@
 2. [Week 2](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/tree/master/week2)
 3. [Week 3](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/tree/master/week3)
 4. [Week 4](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/tree/master/week4)
+5. [Final Task](https://github.com/gilbranfairuz/Dumbways-Bootcamp-Devops/tree/master/FinalTask)
