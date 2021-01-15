@@ -2,10 +2,12 @@
 
 Persiapkan :
 1. Slide presentasi
+   
 2. Rapikan repository : 
 — ansible dan semua config penting
 — screenshot step by step
 — deskripsi dokumentasi
+
 3. Video presentasi flow aplikasi
 — design infrastruktur
 — flow ci/cd

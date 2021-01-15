@@ -3,7 +3,7 @@
 
 ### Monitoring
 
-1. Clone Repo dari Github untuk monitoring. Sama seperti sebelumnya saya sudah pernah mengkonfigurasi dan disimpan di github. Namun pada repo ini hanya untuk master, sehingga untuk slave yang hanya menginstall node exporter dilakukan tanpa bantuan ansible ataupun docker. Pada file konfigurasi prometheus.yml dikonfigurasi agar dapat mnerima pull metrics dari tiap server slave.
+1. Clone Repo dari Github untuk monitoring. Sama seperti sebelumnya saya sudah pernah mengkonfigurasi dan disimpan di github. Namun pada repo ini hanya untuk master, sehingga untuk slave yang hanya menginstall node exporter dilakukan tanpa bantuan ansible ataupun docker. Pada file konfigurasi prometheus.yml dikonfigurasi agar dapat menerima pull metrics dari tiap server slave.
    
    ![1](/FinalTask/MONITORING/IMG/1.png)
 
