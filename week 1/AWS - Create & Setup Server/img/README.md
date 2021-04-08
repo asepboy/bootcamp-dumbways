@@ -2,7 +2,7 @@
 ## Week 1 - day 2
 ### VM-Install Application
 
-1. Disini saya akan membuat 2 yaitu instance untuk reverse proxy dan instance untuk aplikasi. pertama saya buat instance untuk reverse proxy, Klik Launch a virtual machine EC2 pada menu dashboard aws. 
+1. Disini saya akan membuat 2 instance yaitu instance untuk reverse proxy dan instance untuk aplikasi. pertama saya buat instance untuk reverse proxy, Klik Launch a virtual machine EC2 pada menu dashboard aws. 
     
     ![update](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%201/AWS%20-%20Create%20%26%20Setup%20Server/img/1.PNG)
 
