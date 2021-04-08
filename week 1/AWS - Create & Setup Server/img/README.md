@@ -1,6 +1,7 @@
 # Dumbways Bootcamp DevOps Batch 4
 ## Week 1 - day 2
-### VM-Install Application
+### AWS - Create & Setup Server
+
 
 1. Disini saya akan membuat 2 instance yaitu instance untuk reverse proxy dan instance untuk aplikasi. pertama saya buat instance untuk reverse proxy, Klik Launch a virtual machine EC2 pada menu dashboard aws. 
     
@@ -46,7 +47,7 @@
 
     ![11](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%201/AWS%20-%20Create%20%26%20Setup%20Server/img/11.PNG)
 
-12. Associate Elastic IP Adderess pada public instance, dan Public IP sudah didapatkan untuk instance reverse proxy. 
+12. Associate Elastic IP Address pada public instance, dan Public IP sudah didapatkan untuk instance reverse proxy. 
 
     ![12](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%201/AWS%20-%20Create%20%26%20Setup%20Server/img/12.PNG)
     ![13](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%201/AWS%20-%20Create%20%26%20Setup%20Server/img/13.PNG)
@@ -86,7 +87,7 @@
     ![23](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%201/AWS%20-%20Create%20%26%20Setup%20Server/img/23.PNG)
     ![24](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%201/AWS%20-%20Create%20%26%20Setup%20Server/img/24.PNG)
 
-   ### VM-Install Application
+   ### Akses instance untuk aplikasi
    
 21. mengirimkan keypair dari local komputer ke public instance dengan menggunakan perintah scp.
  
