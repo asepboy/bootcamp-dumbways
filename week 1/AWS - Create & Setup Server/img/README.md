@@ -1,5 +1,5 @@
 # Dumbways Bootcamp DevOps Batch 4
-## Week 1 - day 1
+## Week 1 - day 2
 ### VM-Install Application
 
 1. Disini saya akan membuat 2 yaitu instance untuk reverse proxy dan instance untuk aplikasi. pertama saya buat instance untuk reverse proxy, Klik Launch a virtual machine EC2 pada menu dashboard aws. 
