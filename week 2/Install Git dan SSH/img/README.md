@@ -14,7 +14,7 @@
    
    ![3](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%202/Install%20Git%20dan%20SSH/img/3.PNG)
 
-4. Clone repository private ke server backend git clone.
+4. Clone repository private ke server backend dengan git clone.
    
    ![4](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%202/Install%20Git%20dan%20SSH/img/4.PNG)
 
