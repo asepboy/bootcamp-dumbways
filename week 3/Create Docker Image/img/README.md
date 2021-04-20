@@ -19,3 +19,4 @@
 4. Push docker image ke docker hub.
     
     ![6](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%203/Create%20Docker%20Image/img/6.PNG)
+    ![7](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%203/Create%20Docker%20Image/img/7.PNG)
