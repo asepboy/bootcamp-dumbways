@@ -30,3 +30,4 @@
 7. Hasil tampilan dashboard untuk monitoring grafana.
 
     ![8](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%204/Connection%20Multiple%20Server%20to%20Prometheus/img/8.png)
+    ![9](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%204/Connection%20Multiple%20Server%20to%20Prometheus/img/9.png)
