@@ -43,3 +43,22 @@
 10. Jalankan file docker.yml dengan perintah "ansible-playbook docker.yml -bK"
 
     ![10](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%204/ansible/10.png)
+    
+11. Membuat file baru untuk instalasi database dan jalankan dengan menggunakan perintah ansible-playbook.
+
+     ![11](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%204/ansible/11.png)
+     
+12. Membuat file baru untuk instalasi jenkins dan jalankan dengan menggunakan perintah ansible-playbook.
+      
+      ![12](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%204/ansible/12.png)
+      ![13](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%204/ansible/13.png)
+
+13. Membuat file baru untuk instalasi prometheus, grafana dan node-exporter dan jalankan dengan menggunakan perintah ansible-playbook.
+
+      ![14](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%204/ansible/14.png)
+      ![15](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%204/ansible/15.png)
+
+14. Membuat file baru untuk deployment frontend dan backend kemudian jalankan dengan perintah ansible-playbook.
+
+      ![16](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%204/ansible/16.png)
+      ![17](https://github.com/asepboy/bootcamp-dumbways/blob/main/week%204/ansible/17.png)
