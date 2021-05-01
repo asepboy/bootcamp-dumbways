@@ -1,6 +1,6 @@
 # Dumbways Bootcamp DevOps Batch 4
 ## Week 4
-### Ansible
+### Setup Server With Ansible
 
 1. Membuat 6 Instance baru dan semuanya menggunakan docker kecuali nginx yang diantaranya: 
     - 1 server untuk nginx
