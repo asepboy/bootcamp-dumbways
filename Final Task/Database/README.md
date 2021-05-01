@@ -11,3 +11,4 @@
 2. Membuat file baru untuk proses instalasi database dengan menggunakan ansible.
 
    ![5](https://github.com/asepboy/bootcamp-dumbways/blob/main/Final%20Task/Database/5.png)
+   ![4](https://github.com/asepboy/bootcamp-dumbways/blob/main/Final%20Task/Database/4.png)
