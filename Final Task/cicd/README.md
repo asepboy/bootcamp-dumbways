@@ -32,7 +32,7 @@
    
 #### Create Jobs Frontend & Backend
 7. Pilih create jobs -> freestyle project untuk proses cicd.
-8. di tab "Source Code Management", isikan Repository URL dan credentials serta brance yang akan dibuild.
+8. di tab "Source Code Management", isikan Repository URL dan credentials serta branch yang akan dibuild.
 
    ![11](https://github.com/asepboy/bootcamp-dumbways/blob/main/Final%20Task/cicd/11.png)
    ![12](https://github.com/asepboy/bootcamp-dumbways/blob/main/Final%20Task/cicd/12.png)
