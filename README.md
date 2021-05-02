@@ -12,8 +12,5 @@
 ## Ansible Configuration
 6. [Ansible](https://github.com/asepboy/Ansible-dumbways)
 
-## Video Playlit
-7. [Design Infrastructure AWS]()
-8. [Flow CI/CD]()
-9. [Monitoring]()
-10. [Security]()
+## Video CICD, Security, Monitoring and Design Infrastructure AWS
+7. [Video Playlist Youtube](https://www.youtube.com/playlist?list=PLB5miPEAPxzg_LYLithW11xSOYr-JXRNK)
