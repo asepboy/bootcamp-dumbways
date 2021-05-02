@@ -10,7 +10,7 @@
 5. [Final Task](https://github.com/asepboy/bootcamp-dumbways/blob/main/Final%20Task/README.md)
 
 ## Ansible Configuration
-6. [ansible]()
+6. [ansible](https://github.com/asepboy/Ansible-dumbways)
 
 ## Video Playlit
 7. [Design Infrastructure AWS]()
